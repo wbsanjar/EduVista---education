@@ -1,5 +1,5 @@
 ## 🎓 College Website
-![Logo]()
+![Logo](image/img.pass.jpg)
 
 📌 Project Description
 
