@@ -1,7 +1,11 @@
 ## 🎓 College Website
+![Logo]()
+
 📌 Project Description
 
 This is a responsive College Website project developed to provide information about the college, courses, faculty, admissions, and contact details. The website is designed to be user-friendly and accessible on all devices.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🚀 Features
 
@@ -23,11 +27,13 @@ This is a responsive College Website project developed to provide information ab
 
 🛠️ Technologies Used
 
-# HTML5
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# CSS3
+HTML5
 
-# JavaScript
+CSS3
+
+JavaScript
 
 Bootstrap / Tailwind (if used)
 
